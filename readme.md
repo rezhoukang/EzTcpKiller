@@ -6,7 +6,7 @@
 技术栈
 底层原理
 Python代码无法双击直接运行，打包 = Python解释器 + 项目代码 + 第三方依赖 合并封装为exe
-新手首选：PyInstaller 万能一行命令
+选用PyInstaller
 
 1.先安装
 pip install pyinstaller
