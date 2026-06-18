@@ -1,0 +1,4 @@
+# EzTcpKiller 依赖清单
+# 本项目零第三方依赖，仅使用 Python 标准库 + Windows 系统命令
+# 以下仅用于打包：
+# pyinstaller>=6.0.0
